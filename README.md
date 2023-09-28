@@ -18,11 +18,6 @@
 - **[Tailwind CSS](https://tailwindcss.com)**
 - **[Kubernetes](https://kubernetes.io)**
 
-#### Ask me about 💬
-- Google Cloud Platform
-- System Design
-- Open source
-
 #### Get in touch 📫
 - Mail: **logesh.k@iamneo.ai**
 - Personal site: **[logesh-kannan.web.app](https://logesh-kannan.web.app)**
