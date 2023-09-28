@@ -1,16 +1,32 @@
-### Hi there 👋
+<h3>
+  Hey there 👋<br>
+  I'm Logesh 
+</h3>
 
-<!--
-**logeshkannan96/logeshkannan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About 🌏
+- I build scalable systems in EdTech domain.
+- I'm curious about learning experimenting new things.
+- Currently learning DevOps
 
-Here are some ideas to get you started:
+#### Work 🔭
+- Senior software engineer at **[Iamneo.ai](https://iamneo.ai)** (Present).
+- Software engineer at **[Vetologic Technologies Pvt. Ltd.]** (2020 - 2021)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current Interests 🌱
+- **[React](https://reactjs.org)**
+- **[Typescript](https://www.typescriptlang.org/)**
+- **[Tailwind CSS](https://tailwindcss.com)**
+- **[Kubernetes](https://kubernetes.io)**
+
+#### Ask me about 💬
+- Google Cloud Platform
+- System Design
+- Open source
+
+#### Get in touch 📫
+- Mail: **logesh.k@iamneo.ai**
+- Personal site: **[logesh-kannan.web.app](https://logesh-kannan.web.app)**
+
+**Fun facts ⚡**
+- I love to take photos 📸**
+- I love reading 📚
