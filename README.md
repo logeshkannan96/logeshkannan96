@@ -6,7 +6,7 @@
 #### About 🌏
 - I build scalable systems in EdTech domain.
 - I'm curious about learning experimenting new things.
-- Currently learning DevOps
+- Currently learning WebRTC, DevOps, Service Workers
 
 #### Work 🔭
 - Senior software engineer at **[Iamneo.ai](https://iamneo.ai)** (Present)
@@ -22,7 +22,3 @@
 #### Get in touch 📫
 - Mail: **logesh.k@iamneo.ai**
 - Personal site: **[logesh-kannan.web.app](https://logesh-kannan.web.app)**
-
-**Fun facts ⚡**
-- I love to take photos 📸**
-- I love reading 📚
