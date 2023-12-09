@@ -10,8 +10,8 @@
 
 #### Work 🔭
 - Senior software engineer at **[Iamneo.ai](https://iamneo.ai)** (Present)
-- Senior software engineer at **[Codeshastra Pvt. Ltd]**
-- Software engineer at **[Vetologic Technologies Pvt. Ltd.]** (2020 - 2021)
+- Senior software engineer at **Codeshastra Pvt. Ltd.**
+- Software engineer at **Vetologic Technologies Pvt. Ltd.** (2020 - 2021)
 
 #### Current Interests 🌱
 - **[React](https://reactjs.org)**
